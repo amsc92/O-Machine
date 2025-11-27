@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Aalto/Liquid Computing/ESP32"
+		},
+		{
+			"name": "LiquidComputing25",
+			"path": "."
+		},
+		{
+			"name": "Smoking Mirror",
+			"path": "../Smoking Mirror"
+		},
+		{
+			"path": "../KCCC-ObsidianLight"
+		},
+		{
+			"path": "../ESP_Mutlichannel_OSC"
+		}
+	],
+	"settings": {}
+}

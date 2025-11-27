@@ -1,0 +1,16 @@
+{
+  "txs": [
+    {
+      "hash": "abc123...",
+      "time": 1700000000,
+      "size": 225,
+      "relayed_by": "1.2.3.4",
+      "out": [
+        {"value": 5000000000, "addr": "1BitcoinAddress..."}
+      ],
+      "inputs": [
+        {"prev_out": {"value": 5000000000, "addr": "1AnotherAddr..."}}
+      ]
+    }
+  ]
+}
