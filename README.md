@@ -21,3 +21,7 @@ The second system uses cryptocurrencies. This is a purely speculative system cre
 
 The O-Machine generates and confronts two predictions from these systems. In what can resemble a game, the data collected by the systems is translated into poems, which are printed when a ritualistic performance activates the machine.
 
+
+
+
+
